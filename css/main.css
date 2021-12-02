@@ -1021,23 +1021,13 @@ each section will be a gradient*/
 
 #faq{
   background: black; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#64a6d6, #0d2070); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#64a6d6, #0d2070); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#64a6d6,#0d2070); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#64a6d6, #0d2070);
+  background: -webkit-linear-gradient(#64a6d6, #e14d79); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#64a6d6, #e14d79); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#64a6d6,#e14d79); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#64a6d6, #e14d79);
   color: black;
 }
 
-
-#sponsors{
-  background: #5b5b69; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#0d2070, #e14d79); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#0d2070, #e14d79); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#0d2070, #e14d79); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#0d2070, #e14d79);
-  color: #f9f9f9;
-
-}
 
 #team{
   background: #36363f; /* For browsers that do not support gradients */
