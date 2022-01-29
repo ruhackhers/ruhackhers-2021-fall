@@ -86,6 +86,7 @@ should be cleared when going to a different res size*/
   line-height: 24px;
   font-weight: 700;
   color: #fff;
+float: left;
 }
 .navbar li a:hover {
   color: #758eff;
@@ -99,7 +100,7 @@ should be cleared when going to a different res size*/
   border-radius: 0;
   height: 80px;
   margin-bottom: 0;
-  text-align: center;
+  text-align: left;
   font-size: 18px;
   font-weight: 600;
   text-transform: lowercase;
