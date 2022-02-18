@@ -1011,7 +1011,7 @@ each section will be a gradient*/
 
 
 #schedule{
-  background: #b5b5bf; 
+  background: black; 
   background: -webkit-linear-gradient(#64a6d6,#091f86); 
   background: -o-linear-gradient(#64a6d6, #091f86); 
   background: -moz-linear-gradient(#64a6d6, #091f86);
