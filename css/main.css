@@ -1010,21 +1010,21 @@ each section will be a gradient*/
 }
 
 
-/* #schedule{
+#schedule{
   background: #b5b5bf; 
   background: -webkit-linear-gradient(#64a6d6,#091f86); 
   background: -o-linear-gradient(#64a6d6, #091f86); 
   background: -moz-linear-gradient(#64a6d6, #091f86);
   background: linear-gradient(#64a6d6, #091f86);
   color: #f9f9f9;
-}  */
+} 
 
 #faq{
   background: black; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#64a6d6, #0d2070); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#64a6d6, #0d2070); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#64a6d6,#0d2070); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#64a6d6, #0d2070);
+  background: -webkit-linear-gradient(#091f86, #0d2070); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#091f86, #0d2070); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#091f86,#0d2070); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#091f86, #0d2070);
   color: black;
 }
 
